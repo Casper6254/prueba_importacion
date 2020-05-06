@@ -1,0 +1,2 @@
+import pandas as pd
+serie = pd.Series([x for x in 1 to 10]
