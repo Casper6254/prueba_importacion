@@ -2,3 +2,4 @@ import pandas as pd
 serie = pd.Series([x for x in 1 to 10]
 serie2 = serie*2
 serie3 = serie2 + 3
+serie4 = serie3 / 4
